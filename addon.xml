@@ -8,7 +8,7 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Skin Swan Image Directory</summary>
 		<description lang="en">Skin Swan Image Directory - Provides Textures for the GUI (Backgrounds, Overlays, Icons)
-Credits belongs to:
+Additional Credits belongs to:
 'Phil65' (skin.estuary) (some backgroundpatterns)
 'Marcelveldt' , 'mgonzales71' (some backgroundpatterns from resource.images.backgroundoverlays.basic)
 'unsplash Users'  (some backgroundimages)
